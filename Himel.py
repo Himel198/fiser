@@ -27,13 +27,13 @@ info2= green + '[' + white + '•' + green + '] '+ purple
 
 logo=f'''
 {red}  _____       _____  _     _     _               
-{green} |  __ \     |  __ \| |   (_)   | |              
-{red} | |__) |   _| |__) | |__  _ ___| |__   ___ _ __ 
-{green} |  ___/ | | |  ___/| '_ \| / __| '_ \ / _ \ '__|
+{cyan} |  __ \     |  __ \| |   (_)   | |              
+{yellow} | |__) |   _| |__) | |__  _ ___| |__   ___ _ __ 
+{blue} |  ___/ | | |  ___/| '_ \| / __| '_ \ / _ \ '__|
 {red} | |   | |_| | |    | | | | \__ \ | | |  __/ |   
-{green} |_|    \__, |_|    |_| |_|_|___/_| |_|\___|_|   
-{red}         __/ |                          {cyan}[v1.6]
-{green}        |___/                   {red}[BY Himel]
+{yellow} |_|    \__, |_|    |_| |_|_|___/_| |_|\___|_|   
+{green}         __/ |                          {cyan}[v1.6]
+{cyan}        |___/                   {red}[By Himel]
 '''
 
 pyphisherpyphisherpyphisherpyphisherpyphisher = ""
