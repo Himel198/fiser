@@ -117,8 +117,8 @@ logo=f'''
 {blue} |  ___/ | | |  ___/| '_ \| / __| '_ \ / _ \ '__|
 {red} | |   | |_| | |    | | | | \__ \ | | |  __/ |   
 {yellow} |_|    \__, |_|    |_| |_|_|___/_| |_|\___|_|   
-{green}         __/ |                          {cyan}[v1.5]
-{cyan}        |___/                   {red}[BY Himel]
+{green}         __/ |                          {cyan}
+{cyan}        |___/                   {red}
 '''
 
 pyphisherpyphisherpyphisherpyphisherpyphisher = ""
